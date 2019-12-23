@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 aku tidak sinting karena aku gila
+=======
+aku tidak sinting banget
+
+
+aku memang gila
+>>>>>>> master
